@@ -122,6 +122,7 @@ For an effective analysis:
 Customer Sales Dashboard/
 │
 ├── Customer Sales Dashboard (16-07-2026).pbix
+├── Customer Sales Dashboard -- Articles.docx
 ├── sales_data.csv
 └── README.md
 ```
